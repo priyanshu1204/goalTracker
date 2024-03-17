@@ -1,10 +1,13 @@
 # goaltracker3
 
-A new Flutter project.
+A new Flutter project build as a task for Kognizance KodesSphere hakathon 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+this Project is not fully functional due to shortage of time,
+but we have tried our best to make it look good
+
 
 A few resources to get you started if this is your first Flutter project:
 
